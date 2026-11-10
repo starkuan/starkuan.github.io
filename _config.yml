@@ -1,0 +1,17 @@
+title: Kuan's Blog
+description: 记录学习与思考的个人博客。
+lang: zh-CN
+timezone: Asia/Shanghai
+author:
+  name: starkuan
+theme: minima
+url: "https://starkuan.github.io"
+baseurl: ""
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  social_links:
+    - { platform: github, user_url: "https://github.com/starkuan" }
+header_pages:
+  - about.md
